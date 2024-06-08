@@ -18,6 +18,7 @@ Bonne lecture ! 📚
 |--:|:--|:--|
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
+|Le guide du débutant DaVinci Resolve 18: Montage, Étalonnage, Audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
