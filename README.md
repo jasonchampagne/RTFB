@@ -19,6 +19,7 @@ Bonne lecture ! 📚
 + [Coder proprement](https://isbndb.com/book/9782326002272)
 + [Dans le cerveau du gamer](https://isbndb.com/book/9782100809158)
 + [Dictionnaire des mathématiques élémentaires](https://isbndb.com/book/9782020260282)
++ [Java pour les Nuls](https://isbndb.com/book/9782412094839)
 
 <!--
 |Java pour les Nuls|Barry Burd|
