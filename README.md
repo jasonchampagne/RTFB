@@ -14,7 +14,7 @@ Bonne lecture ! 📚
 
 ## Français
 
-+ [Algorithmique - techniques fondamentales de programmation](https://isbndb.com/book/9782340010055)
++ [Algorithmique - techniques fondamentales de programmation (exemples en PHP)](https://isbndb.com/book/9782409027086)
 
 <!--
 ||Olivier Rollet|
