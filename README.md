@@ -27,6 +27,7 @@ Bonne lecture ! 📚
 + [Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie](https://isbndb.com/book/9782340010055)
 + [Programmation web pour les Nuls](https://isbndb.com/book/978-2412090299)
 + [Programmer en C pour les Nuls](https://isbndb.com/book/9782412066966)
++ [Programmer en C++ : des premiers pas à la maîtrise de C++20](https://isbndb.com/book/9782340065437)
 + [Programmer en C++ moderne : de C++11 à C++20](https://isbndb.com/book/9782212678956)
 + [Programmer en langage C](https://isbndb.com/book/9782212118254)
 
