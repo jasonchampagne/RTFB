@@ -18,9 +18,9 @@ Bonne lecture ! 📚
 + [Algorithmique - techniques fondamentales de programmation (exemples en Python)](https://isbndb.com/book/9782409041846)
 + [Coder proprement](https://isbndb.com/book/9782326002272)
 + [Dans le cerveau du gamer](https://isbndb.com/book/9782100809158)
++ [Dictionnaire des mathématiques élémentaires](https://isbndb.com/book/9782020260282)
 
 <!--
-|Dictionnaire des mathématiques élémentaires|Stella Baruk|
 |Java pour les Nuls|Barry Burd|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|
 |Le dessin de manga|Sonia Leong|
