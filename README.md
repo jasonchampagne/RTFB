@@ -23,6 +23,7 @@ Bonne lecture ! 📚
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|programmation|
+|Programmer en langage C|Claude Delannoy|programmation|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|développement web|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
@@ -37,7 +38,7 @@ Bonne lecture ! 📚
 |A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|jeu vidéo|
 |Arm Assembly Internals and Reverse Engineering|Maria Markstedter|programmation|
 |Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|Jason Schreier|jeu vidéo|
-|C++ Primer (5e édition)|Barbara Moo, Josée Lajoie, Stanley Lippman|programmation|
+|C++ Primer|Barbara Moo, Josée Lajoie, Stanley Lippman|programmation|
 |Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|programmation|
 |Computer Networks|Andrew S. Tanenbaum|systèmes d'exploitation|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|programmation|
