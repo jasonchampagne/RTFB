@@ -27,6 +27,7 @@ Bonne lecture ! 📚
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|développement web|
 |Programmer en langage C|Claude Delannoy|programmation|
 |Programmer pour les Nuls|Olivier Engler, Wallace Wang|programmation|
+|Python - manuel de référence|Alex Martelli, Anna Martelli Ravenscroft, Paul McGuire, Steve Holden|programmation|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
