@@ -62,7 +62,14 @@ Bonne lecture ! 📚
 + [Head First C](https://isbndb.com/book/9781449399917)
 + [Head First C#](https://isbndb.com/book/9780596514822)
 + [Head First C#: A Learner's Guide to Real-World Programming with C# and .Net Core](https://isbndb.com/book/9781491976708)
++ [Head First Design Patterns](https://isbndb.com/book/9780596007126)
++ [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://isbndb.com/book/9781492078005)
 + [Head First Excel](https://isbndb.com/book/9780596807696)
++ [Head First Git](https://isbndb.com/book/9781492092513)
++ [Head First Go](https://isbndb.com/book/9781491969557)
++ [Head First HTML and CSS](https://isbndb.com/book/9780596159900)
++ [Head First HTML5 Programming](https://isbndb.com/book/9781449390549)
++ [Head First Java](https://isbndb.com/book/9781491910771)
 + [Head First Networking](https://isbndb.com/book/9780596521554)
 + [Head First SQL](https://isbndb.com/book/9780596526849)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
@@ -74,12 +81,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Head First Design Patterns|Bert Bates, Elisabeth Freeman, Eric Freeman, Kathy Sierra|
-|Head First Git|Raju Gandhi|
-|Head First Go|Jay McGavren|
-|Head First HTML and CSS|Elisabeth Robson, Eric Freeman|
-|Head First HTML5 Programming|Elisabeth Robson, Eric Freeman|
-|Head First Java|Bert Bates, Kathy Sierra, Trisha Gee|
 |Head First JavaScript Programming|Elisabeth Robson, Eric Freeman|
 |Head First Kotlin|David Griffiths, Dawn Griffiths|
 |Head First Learn to Code|Eric Freeman|
