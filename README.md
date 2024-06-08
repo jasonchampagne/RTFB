@@ -31,6 +31,7 @@ Bonne lecture ! 📚
 + [Programmer en C++ moderne : de C++11 à C++20](https://isbndb.com/book/9782212678956)
 + [Programmer en langage C](https://isbndb.com/book/9782212118254)
 + [Programmer pour les Nuls](https://isbndb.com/book/9782412056059)
++ [Proprement codeur : code de conduite pour développeur professionnel](https://isbndb.com/book/9782326002890)
 + [Python - manuel de référence](https://isbndb.com/book/9782412091876)
 + [Python pour débutants : programmer un réseau neuronal en 7 jours](https://isbndb.com/book/9798357472946)
 + [SQL Synthex](https://isbndb.com/book/9782744076305)
