@@ -22,6 +22,7 @@ Bonne lecture ! 📚
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
+|Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|programmation|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
