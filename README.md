@@ -15,10 +15,9 @@ Bonne lecture ! 📚
 ## Français
 
 + [Algorithmique - techniques fondamentales de programmation (exemples en PHP)](https://isbndb.com/book/9782409027086)
++ [Coder proprement](https://isbndb.com/book/9782326002272)
 
 <!--
-||Olivier Rollet|
-|Coder proprement|Robert C. Martin|
 |Dans le cerveau du gamer|Celia Hodent|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|
 |Java pour les Nuls|Barry Burd|
