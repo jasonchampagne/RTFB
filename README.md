@@ -1,6 +1,11 @@
 # Read That Fucking Book
 
-Ci-dessous une liste de livres (format physique et/ou numérique) sur divers domaines techniques, artisitiques et technologiques.
+Ci-dessous une liste de livres (format physique et/ou numérique) sur divers domaines techniques, artisitiques et technologiques :
+
++ en [français](#français)
++ en [anglais](#anglais)
+
+---
 
 ## Français
 
@@ -10,6 +15,8 @@ Ci-dessous une liste de livres (format physique et/ou numérique) sur divers dom
 ||||
 ||||
 ||||
+
+---
 
 ## Anglais
 
