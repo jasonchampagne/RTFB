@@ -49,6 +49,10 @@ Bonne lecture ! 📚
 + [C++ Primer](https://isbndb.com/book/9780321714114)
 + [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://isbndb.com/book/9780134494166)
 + [Clean Code: A Handbook of Agile Software Craftsmanship](https://isbndb.com/book/9780132350884)
++ [Compilers: Principles Techniques And Tools](https://isbndb.com/book/9789332518667)
++ [Computer Networks](https://isbndb.com/book/9789356063600)
++ [Design Patterns: Elements of Reusable Object-Oriented Software](https://isbndb.com/book/9780201633610)
++ [Dramatic Storytelling & Narrative Design](https://isbndb.com/book/9781138319738)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
 + [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
@@ -58,10 +62,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|
-|Computer Networks|Andrew S. Tanenbaum|
-|Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|
-|Dramatic Storytelling & Narrative Design|Ross Berger|
 |Effective Java|Joshua Bloch|
 |Game Engine Architecture|Jason Gregory|
 |Game Programming in C++|Sanjay Madhav|
