@@ -43,6 +43,7 @@ Bonne lecture ! 📚
 |Arm Assembly Internals and Reverse Engineering|Maria Markstedter|
 |Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|Jason Schreier|
 |C++ Primer|Barbara Moo, Josée Lajoie, Stanley Lippman|
+|Clean Code|Robert C. Martin|
 |Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|
 |Computer Networks|Andrew S. Tanenbaum|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|
