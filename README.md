@@ -19,6 +19,8 @@ Bonne lecture ! 📚
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
+|Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
+|Le dessin de manga|Sonia Leong|dessin|
 
 ---
 
@@ -39,4 +41,8 @@ Bonne lecture ! 📚
 |Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
 |Game Programming Patterns|Robert Nystrom|jeu vidéo, programmation|
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|jeu vidéo, programmation|
+|Mastering Game Design with Unity 2021|Scott Tykoski|jeu vidéo, programmation|
+|Object-Oriented Python|Irv Kalb|programmation|
+|Professional C++|Marc Gregoire|programmation|
+|Professional Techniques for Video Game Writing|Wendy Despain|jeu vidéo|
 |The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
