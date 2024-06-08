@@ -42,8 +42,12 @@ Bonne lecture ! 📚
 + [Algorithms in a Nutshell](https://isbndb.com/book/9781491948927)
 + [An Architectural Approach to Level Design](https://isbndb.com/book/9780815361367)
 + [A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production](https://isbndb.com/book/9781000839593)
++ [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://isbndb.com/book/9780062651235)
 + [Blue Fox: Arm Assembly Internals and Reverse Engineering](https://isbndb.com/book/9781119745303)
 + [C in a Nutshell](https://isbndb.com/book/9781491904756)
++ [C++ Primer](https://isbndb.com/book/9780321714114)
++ [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://isbndb.com/book/9780134494166)
++ [Clean Code: A Handbook of Agile Software Craftsmanship](https://isbndb.com/book/9780132350884)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
 + [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
@@ -52,9 +56,6 @@ Bonne lecture ! 📚
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
 
 <!--
-|Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|Jason Schreier|
-|C++ Primer|Barbara Moo, Josée Lajoie, Stanley Lippman|
-|Clean Code|Robert C. Martin|
 |Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|
 |Computer Networks|Andrew S. Tanenbaum|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|
