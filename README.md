@@ -46,3 +46,6 @@ Bonne lecture ! 📚
 |Professional C++|Marc Gregoire|programmation|
 |Professional Techniques for Video Game Writing|Wendy Despain|jeu vidéo|
 |The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
+|The Gamer's Brain|Celia Hodent|jeu vidéo|
+|Video Game Level Design|Michael Salmond|jeu vidéo|
+|Video Game Storytelling|Evan Skolnick|jeu vidéo|
