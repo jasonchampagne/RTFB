@@ -15,6 +15,7 @@ Bonne lecture ! 📚
 ## Français
 
 + [Algorithmique - techniques fondamentales de programmation (exemples en PHP)](https://isbndb.com/book/9782409027086)
++ [Algorithmique - techniques fondamentales de programmation (exemples en Python)](https://isbndb.com/book/9782409041846)
 + [Coder proprement](https://isbndb.com/book/9782326002272)
 + [Dans le cerveau du gamer](https://isbndb.com/book/9782100809158)
 
