@@ -22,6 +22,7 @@ Bonne lecture ! 📚
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
+|Python pour débutants: Programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
 ---
