@@ -53,6 +53,10 @@ Bonne lecture ! 📚
 + [Computer Networks](https://isbndb.com/book/9789356063600)
 + [Design Patterns: Elements of Reusable Object-Oriented Software](https://isbndb.com/book/9780201633610)
 + [Dramatic Storytelling & Narrative Design](https://isbndb.com/book/9781138319738)
++ [Effective Java](https://isbndb.com/book/9780134685991)
++ [Game Engine Architecture](https://isbndb.com/book/9781138035454)
++ [Game Programming in C++](https://isbndb.com/book/9780134597201)
++ [Game Programming Patterns](https://isbndb.com/book/9780990582908)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
 + [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
@@ -62,10 +66,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Effective Java|Joshua Bloch|
-|Game Engine Architecture|Jason Gregory|
-|Game Programming in C++|Sanjay Madhav|
-|Game Programming Patterns|Robert Nystrom|
 |Head First SQL|Lynn Beighley|
 |Head First Excel|Michael Milton|
 |Head First Networking|Al Anderson, Ryan Benedetti|
