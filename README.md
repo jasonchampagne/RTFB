@@ -84,19 +84,20 @@ Bonne lecture ! 📚
 + [Head First Swift](https://isbndb.com/book/9781491922859)
 + [Head First Web Design](https://isbndb.com/book/9780596520304)
 + [Head First WordPress](https://isbndb.com/book/9780596806286)
++ [Introduction to 3D Game Programming With DirectX 12](https://isbndb.com/book/9781942270065)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
 + [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
++ [Mastering Game Design with Unity 2021](https://isbndb.com/book/9789355512161)
 + [MySQL in a Nutshell](https://isbndb.com/book/9780596514334)
++ [Object-Oriented Python](https://isbndb.com/book/9781718502062)
++ [OpenSSL Cookbook](https://www.feistyduck.com/books/openssl-cookbook)
++ [OpenVPN Cookbook](https://isbndb.com/book/9781786463128)
 + [Python in a Nutshell](https://isbndb.com/book/9781098113551)
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|
-|Mastering Game Design with Unity 2021|Scott Tykoski|
-|Object-Oriented Python|Irv Kalb|
-|OpenSSL Cookbook|Ivan Ristić|
 |Professional C++|Marc Gregoire|
 |Professional Techniques for Video Game Writing|Wendy Despain|
 |The Art of Game Design: A book of lenses|Jesse Schell|
