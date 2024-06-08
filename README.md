@@ -18,15 +18,17 @@ Bonne lecture ! 📚
 + [Dictionnaire des mathématiques élémentaires](https://isbndb.com/book/9782020260282)
 + [Java pour les Nuls](https://isbndb.com/book/9782412094839)
 + [Je dessine mes premiers personnages](https://isbndb.com/book/9782212674859)
++ [Langage C - maîtriser la programmation procédurale](https://isbndb.com/book/9782409031014)
 + [Le dessin de manga](https://isbndb.com/book/9782711423736)
 + [Le guide de l’étalonneur DaVinci Resolve 18](https://isbndb.com/book/9798986048864)
 + [Le guide des VFX avec DaVinci Resolve 18](https://isbndb.com/book/979-8986048895)
 + [Le guide du débutant DaVinci Resolve 18](https://isbndb.com/book/979-8986048871)
++ [Le langage C : apprendre à programmer](https://isbndb.com/book/9782340085565)
++ [Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie](https://isbndb.com/book/9782340010055)
++ [Programmation web pour les Nuls](https://isbndb.com/book/978-2412090299)
++ [Programmer en langage C](https://isbndb.com/book/9782212118254)
 
 <!--
-|Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|
-|Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|
-|Programmer en langage C|Claude Delannoy|
 |Programmer pour les Nuls|Olivier Engler, Wallace Wang|
 |Python - manuel de référence|Alex Martelli, Anna Martelli Ravenscroft, Paul McGuire, Steve Holden|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|
