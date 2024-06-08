@@ -57,7 +57,10 @@ Bonne lecture ! 📚
 + [Game Engine Architecture](https://isbndb.com/book/9781138035454)
 + [Game Programming in C++](https://isbndb.com/book/9780134597201)
 + [Game Programming Patterns](https://isbndb.com/book/9780990582908)
++ [Head First Agile](https://isbndb.com/book/9781449314330)
++ [Head First Android Development](https://isbndb.com/book/9781491974056)
 + [Head First Excel](https://isbndb.com/book/9780596807696)
++ [Head First Networking](https://isbndb.com/book/9780596521554)
 + [Head First SQL](https://isbndb.com/book/9780596526849)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
@@ -68,9 +71,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Head First Networking|Al Anderson, Ryan Benedetti|
-|Head First Agile|Andrew Stellman, Jennifer Greene|
-|Head First Android Development|Dawn Griffiths|
 |Head First C|David Griffiths|
 |Head First C#|Andrew Stellman, Jennifer Greene|
 |Head First Design Patterns|Bert Bates, Elisabeth Freeman, Eric Freeman, Kathy Sierra|
