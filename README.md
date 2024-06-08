@@ -15,6 +15,7 @@ Bonne lecture ! 📚
 + [Algorithmique - techniques fondamentales de programmation (exemples en Python)](https://isbndb.com/book/9782409041846)
 + [Coder proprement](https://isbndb.com/book/9782326002272)
 + [Dans le cerveau du gamer](https://isbndb.com/book/9782100809158)
++ [Dessin et peinture numérique avec Krita](https://isbndb.com/book/9782822710091)
 + [Dictionnaire des mathématiques élémentaires](https://isbndb.com/book/9782020260282)
 + [Java pour les Nuls](https://isbndb.com/book/9782412094839)
 + [Je dessine mes premiers personnages](https://isbndb.com/book/9782212674859)
