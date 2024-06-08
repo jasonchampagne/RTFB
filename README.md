@@ -15,7 +15,7 @@ Bonne lecture ! 📚
 ## Français
 
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
-|--:|:--|:--|
+|:--|:--|:--|
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
 |Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
@@ -34,7 +34,7 @@ Bonne lecture ! 📚
 ## Anglais
 
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
-|--:|:--|:--|
+|:--|:--|:--|
 |An Architectural Approach to Level Design|Christopher W. Totten|jeu vidéo|
 |A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|jeu vidéo|
 |Arm Assembly Internals and Reverse Engineering|Maria Markstedter|programmation|
