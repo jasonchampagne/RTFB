@@ -50,16 +50,33 @@ Bonne lecture ! 📚
 |Game Engine Architecture|Jason Gregory|jeu vidéo, programmation|
 |Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
 |Game Programming Patterns|Robert Nystrom|jeu vidéo, programmation|
+|Head First SQL|Lynn Beighley|bases de données|
+|Head First Excel|Michael Milton|bureautique|
+|Head First Networking|Al Anderson, Ryan Benedetti|programmation|
 |Head First Agile|Andrew Stellman, Jennifer Greene|gestion de projets|
 |Head First Android Development|Dawn Griffiths|programmation|
+|Head First C|David Griffiths|programmation|
+|Head First C#|Andrew Stellman, Jennifer Greene|programmation|
+|Head First Design Patterns|Bert Bates, Elisabeth Freeman, Eric Freeman, Kathy Sierra|programmation|
 |Head First Git|Raju Gandhi|gestion de projets|
 |Head First Go|Jay McGavren|programmation|
+|Head First HTML and CSS|Elisabeth Robson, Eric Freeman|développement web|
+|Head First HTML5 Programming|Elisabeth Robson, Eric Freeman|programmation|
 |Head First Java|Bert Bates, Kathy Sierra, Trisha Gee|programmation|
+|Head First JavaScript Programming|Elisabeth Robson, Eric Freeman|programmation|
 |Head First Kotlin|David Griffiths, Dawn Griffiths|programmation|
 |Head First Learn to Code|Eric Freeman|programmation|
+|Head First Mobile Web|Jason Grigsby, Lyza Danger Gardner|développement web, programmation|
+|Head First Object-Oriented Analysis and Design|Brett McLaughlin, David West, Gary Pollice|programmation|
+|Head First PHP & MySQL|Lynn Beighley, Michael Morrison|programmation, bases de données|
+|Head First Programming|David Griffiths, Paul Barry (Aut|programmation|
 |Head First Python|Paul Barry|programmation|
 |Head First Ruby|Jay McGavren|programmation|
+|Head First Servlets and JPS|Bert Bates, Bryan Basham, Kathy Sierra|développement web, programmation|
+|Head First Software Development|Dan Pilone, Russ Miles|programmation|
 |Head First Swift|Jon Manning, Paris Buttfield-Addison|programmation|
+|Head First Web Design|Ethan Watrall, Jeff Siarto|développement web, infographie|
+|Head First WordPress|Jeff Siarto|programmation|
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|jeu vidéo, programmation|
 |Mastering Game Design with Unity 2021|Scott Tykoski|jeu vidéo, programmation|
 |Object-Oriented Python|Irv Kalb|programmation|
