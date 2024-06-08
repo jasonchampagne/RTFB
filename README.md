@@ -18,11 +18,11 @@ Bonne lecture ! 📚
 |--:|:--|:--|
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
-|Le guide du débutant DaVinci Resolve 18: Montage, Étalonnage, Audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
+|Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
-|Python pour débutants: Programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
+|Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
 ---
