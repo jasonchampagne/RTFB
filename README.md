@@ -37,4 +37,6 @@ Bonne lecture ! 📚
 |Dramatic Storytelling & Narrative Design|Ross Berger|jeu vidéo|
 |Game Engine Architecture|Jason Gregory|jeu vidéo, programmation|
 |Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
+|Game Programming Patterns|Robert Nystrom|jeu vidéo, programmation|
+|Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|jeu vidéo, programmation|
 |The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
