@@ -6,7 +6,7 @@ Ci-dessous une liste de livres (format physique et/ou numérique) sur divers dom
 + en [anglais](#anglais)
 
 > [!NOTE]
-> Cette liste n'est aucunement une recommandation de ce que vous devriez lire. Elle existe simplement pour vous donner quelques pistes de lecture dans des domaines abordés pour la grande majorité sur [FormationVidéo](https://www.youtube.com/formationvideo8). Assurez-vous de consulter les ressources les plus à jour possibles (voir leur date de publication) et à vous faire votre propre idée de la qualité de ces ressources.
+> Cette liste n'est aucunement une recommandation de ce que vous devriez lire. Elle existe simplement pour vous donner quelques pistes de lecture dans des domaines abordés pour la grande majorité sur [FormationVidéo](https://www.youtube.com/formationvideo8). Assurez-vous de consulter les ressources les plus à jour possibles (éditions, dates de publication) et à vous faire votre propre idée de la qualité de ces ressources.
 
 Bonne lecture ! 📚
 
