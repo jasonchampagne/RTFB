@@ -5,6 +5,9 @@ Ci-dessous une liste de livres (format physique et/ou numérique) sur divers dom
 + en [français](#français)
 + en [anglais](#anglais)
 
+> [!NOTE]
+> Cette liste ne constitue aucunement une recommandation de ce que vous devriez lire. Elle existe simplement pour vous donner quelques pists de lecture dans des domaines divers. Assurez-vous de consulter les ressources les plus à jour possibles (date de publication) et à vous faire votre propre idée de la qualité de ces ressources.
+
 Bonne lecture ! 📚
 
 ---
