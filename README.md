@@ -23,8 +23,9 @@ Bonne lecture ! 📚
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|programmation|
-|Programmer en langage C|Claude Delannoy|programmation|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|développement web|
+|Programmer en langage C|Claude Delannoy|programmation|
+|Programmer pour les Nuls|Olivier Engler, Wallace Wang|programmation|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|programmation|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
