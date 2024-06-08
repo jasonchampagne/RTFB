@@ -47,6 +47,7 @@ Bonne lecture ! 📚
 |Computer Networks|Andrew S. Tanenbaum|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|
 |Dramatic Storytelling & Narrative Design|Ross Berger|
+|Effective Java|Joshua Bloch|
 |Game Engine Architecture|Jason Gregory|
 |Game Programming in C++|Sanjay Madhav|
 |Game Programming Patterns|Robert Nystrom|
