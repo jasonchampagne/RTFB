@@ -16,7 +16,7 @@ Bonne lecture ! 📚
 
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
 |:--|:--|:--|
-|Algorithmique<br><style="font-size:8px">techniques fondamentales de programmation</style>|Olivier Rollet|algorithmie|
+|Algorithmique<br><span style="font-size:8px">techniques fondamentales de programmation</span>|Olivier Rollet|algorithmie|
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
 |Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
