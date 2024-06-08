@@ -40,6 +40,8 @@ Bonne lecture ! 📚
 
 ## Anglais
 
++ [Algorithms in a Nutshell](https://isbndb.com/book/9781491948927)
+
 <!--
 |An Architectural Approach to Level Design|Christopher W. Totten|
 |A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|
