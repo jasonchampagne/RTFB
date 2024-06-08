@@ -5,6 +5,8 @@ Ci-dessous une liste de livres (format physique et/ou numérique) sur divers dom
 + en [français](#français)
 + en [anglais](#anglais)
 
+Bonne lecture ! 📚
+
 ---
 
 ## Français
