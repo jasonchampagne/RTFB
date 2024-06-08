@@ -21,6 +21,7 @@ Bonne lecture ! 📚
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
+|SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|bases de données|
 
 ---
 
