@@ -42,6 +42,7 @@ Bonne lecture ! 📚
 + [Python pour débutants : programmer un réseau neuronal en 7 jours](https://isbndb.com/book/9798357472946)
 + [SQL Synthex](https://isbndb.com/book/9782744076305)
 + [Techniques de hacking](https://isbndb.com/book/9782744066962)
++ [Windows 10 et Internet pour les Nuls](https://isbndb.com/book/9782412065068)
 
 ---
 
