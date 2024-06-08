@@ -50,7 +50,16 @@ Bonne lecture ! 📚
 |Game Engine Architecture|Jason Gregory|jeu vidéo, programmation|
 |Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
 |Game Programming Patterns|Robert Nystrom|jeu vidéo, programmation|
+|Head First Agile|Andrew Stellman, Jennifer Greene|gestion de projets|
+|Head First Android Development|Dawn Griffiths|programmation|
+|Head First Git|Raju Gandhi|gestion de projets|
+|Head First Go|Jay McGavren|programmation|
 |Head First Java|Bert Bates, Kathy Sierra, Trisha Gee|programmation|
+|Head First Kotlin|David Griffiths, Dawn Griffiths|programmation|
+|Head First Learn to Code|Eric Freeman|programmation|
+|Head First Python|Paul Barry|programmation|
+|Head First Ruby|Jay McGavren|programmation|
+|Head First Swift|Jon Manning, Paris Buttfield-Addison|programmation|
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|jeu vidéo, programmation|
 |Mastering Game Design with Unity 2021|Scott Tykoski|jeu vidéo, programmation|
 |Object-Oriented Python|Irv Kalb|programmation|
