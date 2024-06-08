@@ -23,7 +23,8 @@ Bonne lecture ! 📚
 |Java pour les Nuls|Barry Burd|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|
 |Le dessin de manga|Sonia Leong|
-|Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|
+|Le guide de l’étalonneur DaVinci Resolve 18|Daria Fissoun, David Hover, Dion Scoppettuolo, Jason Druss, Mary Plummer|
+|Le guide du débutant DaVinci Resolve 18|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|
 |Programmer en langage C|Claude Delannoy|
