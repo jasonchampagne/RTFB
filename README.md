@@ -59,6 +59,9 @@ Bonne lecture ! 📚
 + [Game Programming Patterns](https://isbndb.com/book/9780990582908)
 + [Head First Agile](https://isbndb.com/book/9781449314330)
 + [Head First Android Development](https://isbndb.com/book/9781491974056)
++ [Head First C](https://isbndb.com/book/9781449399917)
++ [Head First C#](https://isbndb.com/book/9780596514822)
++ [Head First C#: A Learner's Guide to Real-World Programming with C# and .Net Core](https://isbndb.com/book/9781491976708)
 + [Head First Excel](https://isbndb.com/book/9780596807696)
 + [Head First Networking](https://isbndb.com/book/9780596521554)
 + [Head First SQL](https://isbndb.com/book/9780596526849)
@@ -71,8 +74,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Head First C|David Griffiths|
-|Head First C#|Andrew Stellman, Jennifer Greene|
 |Head First Design Patterns|Bert Bates, Elisabeth Freeman, Eric Freeman, Kathy Sierra|
 |Head First Git|Raju Gandhi|
 |Head First Go|Jay McGavren|
