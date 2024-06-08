@@ -50,6 +50,7 @@ Bonne lecture ! 📚
 |Game Engine Architecture|Jason Gregory|jeu vidéo, programmation|
 |Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
 |Game Programming Patterns|Robert Nystrom|jeu vidéo, programmation|
+|Head First Java|Bert Bates, Kathy Sierra, Trisha Gee|programmation|
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|jeu vidéo, programmation|
 |Mastering Game Design with Unity 2021|Scott Tykoski|jeu vidéo, programmation|
 |Object-Oriented Python|Irv Kalb|programmation|
