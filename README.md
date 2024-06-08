@@ -24,9 +24,9 @@ Bonne lecture ! 📚
 + [Le dessin de manga](https://isbndb.com/book/9782711423736)
 + [Le guide de l’étalonneur DaVinci Resolve 18](https://isbndb.com/book/9798986048864)
 + [Le guide des VFX avec DaVinci Resolve 18](https://isbndb.com/book/979-8986048895)
++ [Le guide du débutant DaVinci Resolve 18](https://isbndb.com/book/979-8986048871)
 
 <!--
-|Le guide du débutant DaVinci Resolve 18|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|
 |Programmer en langage C|Claude Delannoy|
