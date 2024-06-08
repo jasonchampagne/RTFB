@@ -56,6 +56,7 @@ Bonne lecture ! 📚
 + [Design Patterns: Elements of Reusable Object-Oriented Software](https://isbndb.com/book/9780201633610)
 + [Digital Painting with KRITA 2.9: Learn All of the Tools to Create Your Next Masterpiece](https://isbndb.com/book/9780996851701)
 + [Dramatic Storytelling & Narrative Design](https://isbndb.com/book/9781138319738)
++ [Draw and Paint Better with Krita: Discover pro-level techniques and practices to create spectacular digital illustrations with Krita](https://isbndb.com/book/9781801071765)
 + [Effective Java](https://isbndb.com/book/9780134685991)
 + [Game Engine Architecture](https://isbndb.com/book/9781138035454)
 + [Game Programming in C++](https://isbndb.com/book/9780134597201)
