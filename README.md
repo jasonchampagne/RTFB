@@ -40,6 +40,9 @@ Bonne lecture ! 📚
 ## Anglais
 
 + [Algorithms in a Nutshell](https://isbndb.com/book/9781491948927)
++ [An Architectural Approach to Level Design](https://isbndb.com/book/9780815361367)
++ [A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production](https://isbndb.com/book/9781000839593)
++ [Blue Fox: Arm Assembly Internals and Reverse Engineering](https://isbndb.com/book/9781119745303)
 + [C in a Nutshell](https://isbndb.com/book/9781491904756)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
@@ -49,9 +52,6 @@ Bonne lecture ! 📚
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
 
 <!--
-|An Architectural Approach to Level Design|Christopher W. Totten|
-|A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|
-|Arm Assembly Internals and Reverse Engineering|Maria Markstedter|
 |Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|Jason Schreier|
 |C++ Primer|Barbara Moo, Josée Lajoie, Stanley Lippman|
 |Clean Code|Robert C. Martin|
