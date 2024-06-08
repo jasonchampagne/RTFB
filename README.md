@@ -54,6 +54,7 @@ Bonne lecture ! 📚
 + [MySQL in a Nutshell](https://isbndb.com/book/9780596514334)
 + [Python in a Nutshell](https://isbndb.com/book/9781098113551)
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
++ [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
 |Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|
