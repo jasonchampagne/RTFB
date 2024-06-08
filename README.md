@@ -21,11 +21,11 @@ Bonne lecture ! 📚
 + [Dictionnaire des mathématiques élémentaires](https://isbndb.com/book/9782020260282)
 + [Java pour les Nuls](https://isbndb.com/book/9782412094839)
 + [Je dessine mes premiers personnages](https://isbndb.com/book/9782212674859)
++ [Le dessin de manga](https://isbndb.com/book/9782711423736)
++ [Le guide de l’étalonneur DaVinci Resolve 18](https://isbndb.com/book/9798986048864)
++ [Le guide des VFX avec DaVinci Resolve 18](https://isbndb.com/book/979-8986048895)
 
 <!--
-|Le dessin de manga|Sonia Leong|
-|Le guide de l'étalonneur DaVinci Resolve 18|Daria Fissoun, David Hover, Dion Scoppettuolo, Jason Druss, Mary Plummer|
-|Le guide des VFX avec DaVinci Resolve 18|Damian Allen, Dion Scoppettuolo, Tony Gallardo|
 |Le guide du débutant DaVinci Resolve 18|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|
