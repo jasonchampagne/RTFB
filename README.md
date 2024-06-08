@@ -72,6 +72,9 @@ Bonne lecture ! 📚
 + [Head First Kotlin](https://isbndb.com/book/9781491996690)
 + [Head First Learn to Code](https://isbndb.com/book/9781491958865)
 + [Head First Networking](https://isbndb.com/book/9780596521554)
++ [Head First Object-Oriented Analysis and Design](https://isbndb.com/book/9780596008673)
++ [Head First PHP & MySQL](https://isbndb.com/book/9780596006303)
++ [Head First Programming](https://isbndb.com/book/9780596802370)
 + [Head First SQL](https://isbndb.com/book/9780596526849)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
@@ -82,10 +85,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Head First Mobile Web|Jason Grigsby, Lyza Danger Gardner|
-|Head First Object-Oriented Analysis and Design|Brett McLaughlin, David West, Gary Pollice|
-|Head First PHP & MySQL|Lynn Beighley, Michael Morrison|
-|Head First Programming|David Griffiths, Paul Barry (Aut|
 |Head First Python|Paul Barry|
 |Head First Ruby|Jay McGavren|
 |Head First Servlets and JPS|Bert Bates, Bryan Basham, Kathy Sierra|
