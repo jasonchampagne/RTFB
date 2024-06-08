@@ -19,6 +19,7 @@ Bonne lecture ! 📚
 + [Java pour les Nuls](https://isbndb.com/book/9782412094839)
 + [Je dessine mes premiers personnages](https://isbndb.com/book/9782212674859)
 + [Langage C - maîtriser la programmation procédurale](https://isbndb.com/book/9782409031014)
++ [L'art du game design - se focaliser sur les fondamentaux](https://isbndb.com/book/978-2100832422)
 + [Le dessin de manga](https://isbndb.com/book/9782711423736)
 + [Le guide de l’étalonneur DaVinci Resolve 18](https://isbndb.com/book/9798986048864)
 + [Le guide des VFX avec DaVinci Resolve 18](https://isbndb.com/book/979-8986048895)
@@ -93,14 +94,14 @@ Bonne lecture ! 📚
 + [Object-Oriented Python](https://isbndb.com/book/9781718502062)
 + [OpenSSL Cookbook](https://www.feistyduck.com/books/openssl-cookbook)
 + [OpenVPN Cookbook](https://isbndb.com/book/9781786463128)
++ [Professional C++](https://isbndb.com/book/9781394193172)
++ [Professional Techniques for Video Game Writing](https://isbndb.com/book/9780367184780)
 + [Python in a Nutshell](https://isbndb.com/book/9781098113551)
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
++ [The Art of Game Design: A book of lenses](https://isbndb.com/book/9781138632097)
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Professional C++|Marc Gregoire|
-|Professional Techniques for Video Game Writing|Wendy Despain|
-|The Art of Game Design: A book of lenses|Jesse Schell|
 |The Gamer's Brain|Celia Hodent|
 |Video Game Level Design|Michael Salmond|
 |Video Game Storytelling|Evan Skolnick|
