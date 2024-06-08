@@ -14,6 +14,7 @@ Bonne lecture ! 📚
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
 |--:|:--|:--|
 |Coder proprement|Robert C. Martin|programmation|
+|Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
 
 ---
 
@@ -27,4 +28,5 @@ Bonne lecture ! 📚
 |Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|Jason Schreier|jeu vidéo|
 |C++ Primer (5e édition)|Barbara Moo, Josée Lajoie, Stanley Lippman|programmation|
 |Compilers: Principles Techniques And Tools|Alfred V. Aho, Jeffrey Ullman, Monica Lam, Ravi Sethi|programmation|
+|Computer Networks|Andrew S. Tanenbaum|systèmes d'exploitation|
 |The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
