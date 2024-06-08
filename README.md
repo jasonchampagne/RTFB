@@ -13,10 +13,7 @@ Bonne lecture ! 📚
 
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
 |--:|:--|:--|
-||||
-||||
-||||
-||||
+|Coder proprement|Robert C. Martin|programmation|
 
 ---
 
@@ -24,7 +21,8 @@ Bonne lecture ! 📚
 
 |NOM|AUTEUR(S)|THÉMATIQUE(S)|
 |--:|:--|:--|
-||||
-||||
-||||
-||||
+|An Architectural Approach to Level Design|Christopher W. Totten|jeu vidéo|
+|A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|jeu vidéo|
+|Arm Assembly Internals and Reverse Engineering|Maria Markstedter|programmation|
+|C++ Primer (5e édition)|Stanley Lippman, Josée Lajoie, Barbara Moo|programmation|
+|The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
