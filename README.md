@@ -35,4 +35,6 @@ Bonne lecture ! 📚
 |Computer Networks|Andrew S. Tanenbaum|systèmes d'exploitation|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|programmation|
 |Dramatic Storytelling & Narrative Design|Ross Berger|jeu vidéo|
+|Game Engine Architecture|Jason Gregory|jeu vidéo, programmation|
+|Game Programming in C++|Sanjay Madhav|jeu vidéo, programmation|
 |The Art of Game Design: A book of lenses|Jesse Schell|jeu vidéo|
