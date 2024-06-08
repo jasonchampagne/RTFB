@@ -43,6 +43,8 @@ Bonne lecture ! 📚
 + [Algorithms in a Nutshell](https://isbndb.com/book/9781491948927)
 + [C in a Nutshell](https://isbndb.com/book/9781491904756)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
++ [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
++ [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
 + [MySQL in a Nutshell](https://isbndb.com/book/9780596514334)
 + [Python in a Nutshell](https://isbndb.com/book/9781098113551)
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
