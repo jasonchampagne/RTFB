@@ -30,11 +30,12 @@ Bonne lecture ! 📚
 + [Programmer en C++ : des premiers pas à la maîtrise de C++20](https://isbndb.com/book/9782340065437)
 + [Programmer en C++ moderne : de C++11 à C++20](https://isbndb.com/book/9782212678956)
 + [Programmer en langage C](https://isbndb.com/book/9782212118254)
++ [Programmer pour les Nuls](https://isbndb.com/book/9782412056059)
++ [Python - manuel de référence](https://isbndb.com/book/9782412091876)
++ [Python pour débutants : programmer un réseau neuronal en 7 jours](https://isbndb.com/book/9798357472946)
 
 <!--
-|Programmer pour les Nuls|Olivier Engler, Wallace Wang|
-|Python - manuel de référence|Alex Martelli, Anna Martelli Ravenscroft, Paul McGuire, Steve Holden|
-|Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|
+||Benjamin Spahic|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|
 -->
 
