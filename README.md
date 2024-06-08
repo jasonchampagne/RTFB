@@ -33,11 +33,7 @@ Bonne lecture ! 📚
 + [Programmer pour les Nuls](https://isbndb.com/book/9782412056059)
 + [Python - manuel de référence](https://isbndb.com/book/9782412091876)
 + [Python pour débutants : programmer un réseau neuronal en 7 jours](https://isbndb.com/book/9798357472946)
-
-<!--
-||Benjamin Spahic|
-|SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|
--->
++ [SQL Synthex](https://isbndb.com/book/9782744076305)
 
 ---
 
