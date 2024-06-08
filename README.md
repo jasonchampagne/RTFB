@@ -83,9 +83,11 @@ Bonne lecture ! 📚
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|
 |Mastering Game Design with Unity 2021|Scott Tykoski|
 |Object-Oriented Python|Irv Kalb|
+|OpenSSL Cookbook|Ivan Ristić|
 |Professional C++|Marc Gregoire|
 |Professional Techniques for Video Game Writing|Wendy Despain|
 |The Art of Game Design: A book of lenses|Jesse Schell|
 |The Gamer's Brain|Celia Hodent|
 |Video Game Level Design|Michael Salmond|
 |Video Game Storytelling|Evan Skolnick|
+|Working Effectively with Legacy Code|Michael C. Feathers|
