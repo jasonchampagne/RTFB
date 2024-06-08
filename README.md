@@ -75,7 +75,15 @@ Bonne lecture ! 📚
 + [Head First Object-Oriented Analysis and Design](https://isbndb.com/book/9780596008673)
 + [Head First PHP & MySQL](https://isbndb.com/book/9780596006303)
 + [Head First Programming](https://isbndb.com/book/9780596802370)
++ [Head First Python](https://isbndb.com/book/9781492051299)
++ [Head First Ruby](https://isbndb.com/book/9781449372651)
++ [Head First Servlets and JSP](https://isbndb.com/book/9780596516680)
++ [Head First Software Architecture](https://isbndb.com/book/9781098134358)
++ [Head First Software Development](https://isbndb.com/book/9780596527358)
 + [Head First SQL](https://isbndb.com/book/9780596526849)
++ [Head First Swift](https://isbndb.com/book/9781491922859)
++ [Head First Web Design](https://isbndb.com/book/9780596520304)
++ [Head First WordPress](https://isbndb.com/book/9780596806286)
 + [Java in a Nutshell](https://isbndb.com/book/9781098131005)
 + [Linux in a Nutshell](https://isbndb.com/book/9780596154486)
 + [Linux Kernel In A Nutshell](https://isbndb.com/book/9780596100797)
@@ -85,14 +93,6 @@ Bonne lecture ! 📚
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
 
 <!--
-|Head First Python|Paul Barry|
-|Head First Ruby|Jay McGavren|
-|Head First Servlets and JPS|Bert Bates, Bryan Basham, Kathy Sierra|
-|Head First Software Architecture|Mark Richards, Neal Ford, Raju Gandhi|
-|Head First Software Development|Dan Pilone, Russ Miles|
-|Head First Swift|Jon Manning, Paris Buttfield-Addison|
-|Head First Web Design|Ethan Watrall, Jeff Siarto|
-|Head First WordPress|Jeff Siarto|
 |Introduction to 3D Game Programming with DirectX 11|Frank D. Luna|
 |Mastering Game Design with Unity 2021|Scott Tykoski|
 |Object-Oriented Python|Irv Kalb|
