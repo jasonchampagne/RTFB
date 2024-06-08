@@ -19,10 +19,11 @@ Bonne lecture ! 📚
 |Algorithmique - techniques fondamentales de programmation|Olivier Rollet|algorithmie|
 |Coder proprement|Robert C. Martin|programmation|
 |Dans le cerveau du gamer|Celia Hodent|jeu vidéo|
-|Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|mathématiques|
+|Java pour les Nuls|Barry Burd|programmation|
 |Je dessine mes premiers personnages|Kaori Yoshikawa|dessin|
 |Le dessin de manga|Sonia Leong|dessin|
+|Le guide du débutant DaVinci Resolve 18 : montage, étalonnage, audio et Fusion|Arthur Ditner, Chris Roberts, Daria Fissoun, Dion Scoppettuolo, Simon Hall|vidéo|
 |Programmation efficace - 128 algorithmes qu'il faut avoir compris et codés en Python au cours de sa vie|Christoph Dürr, Jill-Jênn Vie|programmation|
 |Programmation web pour les Nuls|Chris Minnick, Eva Holland, Nikhil Abraham|développement web|
 |Programmer en langage C|Claude Delannoy|programmation|
