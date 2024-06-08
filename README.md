@@ -36,8 +36,8 @@ Bonne lecture ! 📚
 
 ## Anglais
 
-|NOM|AUTEUR(S)|THÉMATIQUE(S)|
-|:--|:--|:--|
+|NOM|AUTEUR(S)|
+|:--|:--|
 |An Architectural Approach to Level Design|Christopher W. Totten|
 |A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|
 |Arm Assembly Internals and Reverse Engineering|Maria Markstedter|
