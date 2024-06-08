@@ -41,6 +41,8 @@ Bonne lecture ! 📚
 ## Anglais
 
 + [Algorithms in a Nutshell](https://isbndb.com/book/9781491948927)
++ [MySQL in a Nutshell](https://isbndb.com/book/9780596514334)
++ [R in a Nutshell](https://isbndb.com/book/9781449312084)
 
 <!--
 |An Architectural Approach to Level Design|Christopher W. Totten|
