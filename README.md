@@ -14,9 +14,10 @@ Bonne lecture ! 📚
 
 ## Français
 
-|NOM|AUTEUR(S)|
-|:--|:--|
-|Algorithmique - techniques fondamentales de programmation|Olivier Rollet|
++ [Algorithmique - techniques fondamentales de programmation](https://isbnsearch.org/isbn/9782340010055)
+
+<!--
+||Olivier Rollet|
 |Coder proprement|Robert C. Martin|
 |Dans le cerveau du gamer|Celia Hodent|
 |Dictionnaire des mathématiques élémentaires|Stella Baruk|
@@ -33,13 +34,13 @@ Bonne lecture ! 📚
 |Python - manuel de référence|Alex Martelli, Anna Martelli Ravenscroft, Paul McGuire, Steve Holden|
 |Python pour débutants : programmer un réseau neuronal en 7 jours|Benjamin Spahic|
 |SQL Synthex|Christian Soutou, Frédéric Brouard, Rudi Bruchez|
+-->
 
 ---
 
 ## Anglais
 
-|NOM|AUTEUR(S)|
-|:--|:--|
+<!--
 |An Architectural Approach to Level Design|Christopher W. Totten|
 |A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production|Benjamin Bauer|
 |Arm Assembly Internals and Reverse Engineering|Maria Markstedter|
@@ -93,3 +94,4 @@ Bonne lecture ! 📚
 |Video Game Level Design|Michael Salmond|
 |Video Game Storytelling|Evan Skolnick|
 |Working Effectively with Legacy Code|Michael C. Feathers|
+-->
