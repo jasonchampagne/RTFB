@@ -100,10 +100,7 @@ Bonne lecture ! 📚
 + [R in a Nutshell](https://isbndb.com/book/9781449312084)
 + [The Art of Game Design: A book of lenses](https://isbndb.com/book/9781138632097)
 + [The Clean Coder: A Code of Conduct for Professional Programmers](https://isbndb.com/book/9780137081073)
-
-<!--
-|The Gamer's Brain|Celia Hodent|
-|Video Game Level Design|Michael Salmond|
-|Video Game Storytelling|Evan Skolnick|
-|Working Effectively with Legacy Code|Michael C. Feathers|
--->
++ [The Gamer's Brain](https://isbndb.com/book/9781498775502)
++ [Video Game Level Design](https://isbndb.com/book/9781350099500)
++ [Video Game Storytelling](https://isbndb.com/book/9780385345828)
++ [Working Effectively with Legacy Code](https://isbndb.com/book/9780131177055)
