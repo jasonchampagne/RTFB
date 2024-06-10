@@ -59,6 +59,7 @@ Bonne lecture ! 📚
 + [Clean Code: A Handbook of Agile Software Craftsmanship](https://isbndb.com/book/9780132350884)
 + [Compilers: Principles Techniques And Tools](https://isbndb.com/book/9789332518667)
 + [Computer Networks](https://isbndb.com/book/9789356063600)
++ [Data-Oriented Programming: Reduce software complexity](https://isbndb.com/book/9781617298578)
 + [Design Patterns: Elements of Reusable Object-Oriented Software](https://isbndb.com/book/9780201633610)
 + [Digital Painting with KRITA 2.9: Learn All of the Tools to Create Your Next Masterpiece](https://isbndb.com/book/9780996851701)
 + [Dramatic Storytelling & Narrative Design](https://isbndb.com/book/9781138319738)
